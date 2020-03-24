@@ -1,0 +1,187 @@
+
+---Downloaded files---
+The import files for: The Conference Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.xml
+Widget file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.wie
+Customizer file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "meeting-audience-legislature-seminar-maca-academic-conference-967206-pxhere.com (1)" (post #154)
+[WARNING] Could not find the post parent for "meeting-speech-lecture-presentation-pftf-emgelbart-237350-pxhere.com (1)" (post #155)
+[WARNING] Could not find the post parent for "auditorium-restaurant-workshop-meeting-meal-training-618609-pxhere.com (1)" (post #157)
+[WARNING] Could not find the post parent for "meeting-audience-legislature-seminar-maca-academic-conference-967206-pxhere.com (2)" (post #158)
+[WARNING] Could not find the post parent for "auditorium-meeting-audience-meal-conference-event-725049-pxhere.com (1)" (post #159)
+[WARNING] Could not find the post parent for "vneck-tee-2.jpg" (post #440)
+[WARNING] Could not find the post parent for "vnech-tee-green-1.jpg" (post #441)
+[WARNING] Could not find the post parent for "vnech-tee-blue-1.jpg" (post #442)
+[WARNING] Could not find the post parent for "hoodie-2.jpg" (post #443)
+[WARNING] Could not find the post parent for "hoodie-blue-1.jpg" (post #444)
+[WARNING] Could not find the post parent for "hoodie-green-1.jpg" (post #445)
+[WARNING] Could not find the post parent for "hoodie-with-logo-2.jpg" (post #446)
+[WARNING] Could not find the post parent for "tshirt-2.jpg" (post #447)
+[WARNING] Could not find the post parent for "beanie-2.jpg" (post #448)
+[WARNING] Could not find the post parent for "belt-2.jpg" (post #449)
+[WARNING] Could not find the post parent for "cap-2.jpg" (post #450)
+[WARNING] Could not find the post parent for "sunglasses-2.jpg" (post #451)
+[WARNING] Could not find the post parent for "hoodie-with-pocket-2.jpg" (post #452)
+[WARNING] Could not find the post parent for "hoodie-with-zipper-2.jpg" (post #453)
+[WARNING] Could not find the post parent for "long-sleeve-tee-2.jpg" (post #454)
+[WARNING] Could not find the post parent for "polo-2.jpg" (post #455)
+[WARNING] Could not find the post parent for "album-1.jpg" (post #456)
+[WARNING] Could not find the post parent for "single-1.jpg" (post #457)
+[WARNING] Could not find the post parent for "t-shirt-with-logo-1.jpg" (post #458)
+[WARNING] Could not find the post parent for "beanie-with-logo-1.jpg" (post #459)
+[WARNING] Could not find the post parent for "logo-1.jpg" (post #460)
+[WARNING] Could not find the post parent for "pennant-1.jpg" (post #461)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Barre latérale : 
+
+Rechercher - No Title - Widget already exists
+Texte - What you will expect? - Imported
+Catégories - Categories - Imported
+Rara: Popular Post - Popular Posts - Imported
+Rara: Social Media - Subscribe and Follow - Imported
+RARA: Latest Tweets - Twitter Feeds - Imported
+BlossomThemes: Email Newsletter Widget - No Title - Imported
+Calendrier - Calendar - Imported
+
+Section À propos : 
+
+Rara: A Featured Page Widget - About The Event - Imported
+
+Section de compteur de stats : 
+
+Rara: Stat Counter Widget - Hours - Imported
+Rara: Stat Counter Widget - Speakers - Imported
+Rara: Stat Counter Widget - Seats - Imported
+Rara: Stat Counter Widget - Workshop - Imported
+Rara: Stat Counter Widget - Sponsors - Imported
+
+Section des conférences récentes : 
+
+Rara: Icon Text - What is R3 Move Business Conference? - Imported
+Rara: Icon Text - Provisions for their legislature. - Imported
+
+Section des orateurs : 
+
+Texte - Who&#039;s Speaking - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+Rara: Team Member - No Title - Imported
+
+Section de témoignage : 
+
+Texte - Testimonials - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+Rara: Testimonial - No Title - Imported
+
+Section d’appel à action : 
+
+Rara: Call To Action - No Title - Imported
+Rara: Call To Action - No Title - Imported
+
+Section Contact : 
+
+Texte - Contact Us - Imported
+Texte - Send Message - Imported
+Rara: Contact Widget - Contact Information - Imported
+
+Sections de Google Maps : 
+
+HTML personnalisé - No Title - Imported
+
+Pied de Page 1 : 
+
+Texte - No Title - Imported
+Rara: Social Media - No Title - Imported
+
+Pied de Page 2 : 
+
+Rara: Recent Post - Recent Posts - Imported
+
+Pied de Page 3 : 
+
+Catégories - Categories - Imported
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+RARA: Latest Tweets - Follow Us On - Imported to Inactive
+Rara: Social Media - Subscribe and Follow - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

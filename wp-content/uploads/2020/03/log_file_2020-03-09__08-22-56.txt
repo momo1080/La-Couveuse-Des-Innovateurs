@@ -1,0 +1,104 @@
+
+---Downloaded files---
+The import files for: The Conference Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.xml
+Widget file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.wie
+Customizer file = /var/www/html/wp-content/uploads/rara-demo-pack/the-conference-demo-content/content/theconference.dat
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Barre latérale : 
+
+Rechercher - No Title - Widget already exists
+Texte - What you will expect? - Widget already exists
+Catégories - Categories - Widget already exists
+Rara: Popular Post - Popular Posts - Widget already exists
+Rara: Social Media - Subscribe and Follow - Widget already exists
+RARA: Latest Tweets - Twitter Feeds - Widget already exists
+BlossomThemes: Email Newsletter Widget - No Title - Widget already exists
+Calendrier - Calendar - Widget already exists
+
+Section À propos : 
+
+Rara: A Featured Page Widget - About The Event - Widget already exists
+
+Section de compteur de stats : 
+
+Rara: Stat Counter Widget - Hours - Widget already exists
+Rara: Stat Counter Widget - Speakers - Widget already exists
+Rara: Stat Counter Widget - Seats - Widget already exists
+Rara: Stat Counter Widget - Workshop - Widget already exists
+Rara: Stat Counter Widget - Sponsors - Widget already exists
+
+Section des conférences récentes : 
+
+Rara: Icon Text - What is R3 Move Business Conference? - Widget already exists
+Rara: Icon Text - Provisions for their legislature. - Widget already exists
+
+Section des orateurs : 
+
+Texte - Who&#039;s Speaking - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+Rara: Team Member - No Title - Widget already exists
+
+Section de témoignage : 
+
+Texte - Testimonials - Widget already exists
+Rara: Testimonial - No Title - Widget already exists
+Rara: Testimonial - No Title - Widget already exists
+Rara: Testimonial - No Title - Widget already exists
+Rara: Testimonial - No Title - Widget already exists
+
+Section d’appel à action : 
+
+Rara: Call To Action - No Title - Widget already exists
+Rara: Call To Action - No Title - Widget already exists
+
+Section Contact : 
+
+Texte - Contact Us - Widget already exists
+Texte - Send Message - Widget already exists
+Rara: Contact Widget - Contact Information - Widget already exists
+
+Sections de Google Maps : 
+
+HTML personnalisé - No Title - Widget already exists
+
+Pied de Page 1 : 
+
+Texte - No Title - Imported
+Rara: Social Media - No Title - Imported
+
+Pied de Page 2 : 
+
+Rara: Recent Post - Recent Posts - Widget already exists
+
+Pied de Page 3 : 
+
+Catégories - Categories - Widget already exists
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+RARA: Latest Tweets - Follow Us On - Widget already exists
+Rara: Social Media - Subscribe and Follow - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

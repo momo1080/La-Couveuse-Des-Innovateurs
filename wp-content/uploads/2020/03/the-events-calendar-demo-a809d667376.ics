@@ -1,0 +1,554 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Events Calendar Demo - ECPv5.0.2.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Events Calendar Demo
+X-ORIGINAL-URL:https://demo.theeventscalendar.com
+X-WR-CALDESC:Events for The Events Calendar Demo
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20200308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20201101T090000
+END:STANDARD
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20200308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20201101T060000
+END:STANDARD
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200301T100000
+DTEND;TZID=America/Los_Angeles:20200301T103000
+DTSTAMP:20200320T091848
+CREATED:20191122T184943Z
+LAST-MODIFIED:20191126T004927Z
+UID:1326-1583056800-1583058600@demo.theeventscalendar.com
+SUMMARY:Weekly Beach Cleanup
+DESCRIPTION:The 30-minute beach cleanup on the weekly on Sundays\, 10 a.m. in Belmont Shore\, to help rid the beach of trash and debris. All ages welcome. Free trash bags\, gloves\, door prizes\, volunteer credit forms and refreshments. \n
+URL:https://demo.theeventscalendar.com/event/weekly-beach-cleanup/2020-03-01/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/beach-cleanup.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200302T120000
+DTEND;TZID=America/New_York:20200302T130000
+DTSTAMP:20200320T091848
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004755Z
+UID:1040-1583150400-1583154000@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-02/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200303T180000
+DTEND;TZID=America/New_York:20200303T193000
+DTSTAMP:20200320T091848
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004857Z
+UID:889-1583258400-1583263800@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-03-03/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200304T120000
+DTEND;TZID=America/New_York:20200304T130000
+DTSTAMP:20200320T091848
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004755Z
+UID:1041-1583323200-1583326800@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-04/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200305T180000
+DTEND;TZID=America/New_York:20200305T193000
+DTSTAMP:20200320T091848
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004858Z
+UID:890-1583431200-1583436600@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-03-05/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200306
+DTEND;VALUE=DATE:20200308
+DTSTAMP:20200320T091848
+CREATED:20191122T183333Z
+LAST-MODIFIED:20191126T004449Z
+UID:987-1583452800-1583625599@demo.theeventscalendar.com
+SUMMARY:Pirate Festival
+DESCRIPTION:Come to Pirate Invasion Long Beach\, California’s largest Pirate and Mermaid Festivals located on the scenic lighthouse peninsula in Long Beach behind the Long Beach Aquarium of the Pacific. \nThe best pirates from around the globe sail into Long Beach harbor for this event!\nThousands of costumed Pirates and three Pirate ships will descend on the Shoreline Park for two days of all things Pirate. Sword fights\, cannon and musket battles\, a treasure hunt\, adult\, and children’s costume contest\, an interactive kid’s zone\, arts\, and craft vendors\, live and DJ entertainment on our stages\, food and grog\, a living history encampment\, a live production of “Treasure Island”\, and this year we’ve added more mermaids\, and have a Mermaid themed village . This event has grown leaps and bounds and this year we expect crowds of up to 50\,000 guests over the two days. In fact\, the King and Queen of Spain along with the Spanish Armada is attending! Come listen to face melting pirate rock from the Pirates Charles. Singing and dancing and a good time had by all. \n
+URL:https://demo.theeventscalendar.com/event/pirate-festival/2020-03-06/
+LOCATION:Shoreline Village\, 401 Shoreline Village Drive\, Long Beach\, CA\, 90802\, United States
+CATEGORIES:Festival
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/pirate-festival.png
+GEO:33.7604993;-118.1899951
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Shoreline Village 401 Shoreline Village Drive Long Beach CA 90802 United States;X-APPLE-RADIUS=500;X-TITLE=401 Shoreline Village Drive:geo:-118.1899951,33.7604993
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200306T120000
+DTEND;TZID=America/New_York:20200306T130000
+DTSTAMP:20200320T091848
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004756Z
+UID:1042-1583496000-1583499600@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-06/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200308T080000
+DTEND;TZID=UTC:20200308T170000
+DTSTAMP:20200320T091848
+CREATED:20190522T040443Z
+LAST-MODIFIED:20191126T004539Z
+UID:332-1583654400-1583686800@demo.theeventscalendar.com
+SUMMARY:Graduation BBQ
+DESCRIPTION:Students\, parents and friends are all invited to a free barbecue! Join us as we celebrate this year’s graduating class at the beach. Bring towels\, chairs\, Nerf guns or anything you need to enjoy a fun afternoon on the sand. \n
+URL:https://demo.theeventscalendar.com/event/graduation-bbq/2020-03-08/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/jpeg:https://demo.theeventscalendar.com/wp-content/uploads/food-holiday-vacation-summer.jpg
+ORGANIZER;CN="Ted%20Mosby":MAILTO:ted@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200308T100000
+DTEND;TZID=America/Los_Angeles:20200308T103000
+DTSTAMP:20200320T091849
+CREATED:20191122T184943Z
+LAST-MODIFIED:20191126T004927Z
+UID:1327-1583661600-1583663400@demo.theeventscalendar.com
+SUMMARY:Weekly Beach Cleanup
+DESCRIPTION:The 30-minute beach cleanup on the weekly on Sundays\, 10 a.m. in Belmont Shore\, to help rid the beach of trash and debris. All ages welcome. Free trash bags\, gloves\, door prizes\, volunteer credit forms and refreshments. \n
+URL:https://demo.theeventscalendar.com/event/weekly-beach-cleanup/2020-03-08/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/beach-cleanup.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200309T120000
+DTEND;TZID=America/New_York:20200309T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004756Z
+UID:1043-1583755200-1583758800@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-09/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200311T120000
+DTEND;TZID=America/New_York:20200311T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004756Z
+UID:1044-1583928000-1583931600@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-11/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200313T120000
+DTEND;TZID=America/New_York:20200313T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004756Z
+UID:1045-1584100800-1584104400@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-13/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200314T070000
+DTEND;TZID=America/New_York:20200314T100000
+DTSTAMP:20200320T091849
+CREATED:20191121T054648Z
+LAST-MODIFIED:20191121T054648Z
+UID:856-1584169200-1584180000@demo.theeventscalendar.com
+SUMMARY:5K Fun Run
+DESCRIPTION:We’re hosting a 5K fun run to support local elementary schools. Register today and help us raise funds to help reduce class sizes and equip teachers with resources to help them teach students. \n
+URL:https://demo.theeventscalendar.com/event/5k-fun-run/2020-03-14/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/running.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200315T100000
+DTEND;TZID=America/Los_Angeles:20200315T103000
+DTSTAMP:20200320T091849
+CREATED:20191122T184943Z
+LAST-MODIFIED:20191126T004927Z
+UID:1328-1584266400-1584268200@demo.theeventscalendar.com
+SUMMARY:Weekly Beach Cleanup
+DESCRIPTION:The 30-minute beach cleanup on the weekly on Sundays\, 10 a.m. in Belmont Shore\, to help rid the beach of trash and debris. All ages welcome. Free trash bags\, gloves\, door prizes\, volunteer credit forms and refreshments. \n
+URL:https://demo.theeventscalendar.com/event/weekly-beach-cleanup/2020-03-15/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/beach-cleanup.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200316T120000
+DTEND;TZID=America/New_York:20200316T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004757Z
+UID:1046-1584360000-1584363600@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-16/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200317T180000
+DTEND;TZID=America/New_York:20200317T193000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004858Z
+UID:891-1584468000-1584473400@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-03-17/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200318T120000
+DTEND;TZID=America/New_York:20200318T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004757Z
+UID:1047-1584532800-1584536400@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-18/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200319T180000
+DTEND;TZID=America/New_York:20200319T193000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004858Z
+UID:892-1584640800-1584646200@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-03-19/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200319T200000
+DTEND;TZID=America/Los_Angeles:20200319T230000
+DTSTAMP:20200320T091849
+CREATED:20191217T200316Z
+LAST-MODIFIED:20200311T165158Z
+UID:2317-1584648000-1584658800@demo.theeventscalendar.com
+SUMMARY:Jazz Music Thursdays
+DESCRIPTION:\n\n\nJazz up your Thursday nights as we bring the best local performers to the stage! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+URL:https://demo.theeventscalendar.com/event/jazz-music-thursdays-2/2020-03-19/
+LOCATION:The Troubadour\, 9081 Santa Monica Boulevard\, West Hollywood\, CA\, 90069\, United States
+ATTACH;FMTTYPE=image/jpeg:https://demo.theeventscalendar.com/wp-content/uploads/jazz-band.jpg
+GEO:34.0816174;-118.3893427
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The Troubadour 9081 Santa Monica Boulevard West Hollywood CA 90069 United States;X-APPLE-RADIUS=500;X-TITLE=9081 Santa Monica Boulevard:geo:-118.3893427,34.0816174
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200320T120000
+DTEND;TZID=America/New_York:20200320T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004757Z
+UID:1048-1584705600-1584709200@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-20/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200320T160000
+DTEND;TZID=America/New_York:20200320T190000
+DTSTAMP:20200320T091849
+CREATED:20191121T054703Z
+LAST-MODIFIED:20200128T002618Z
+UID:824-1584720000-1584730800@demo.theeventscalendar.com
+SUMMARY:Precious Lamb Banquet
+DESCRIPTION:Please Join us for our 13th Annual Celebration Gala! You don’t want to miss our biggest fundraiser of the year. This year\, we will celebrate the joyfulness and strength of our students.Sponsorship & Underwriting opportunities are now available. Inquiries can bemade to Marjorie Simpson at 562.243.1715. \n \n
+URL:https://demo.theeventscalendar.com/event/precious-lamb-banquet-5/2020-03-20/
+LOCATION:Precious Lamb\, 2005 Palo Verde Ave.\, Long Beach\, CA\, 90815\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/preschool-table.png
+ORGANIZER;CN="Ted%20Mosby":MAILTO:ted@example.com
+GEO:33.7924082;-118.1083996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Precious Lamb 2005 Palo Verde Ave. Long Beach CA 90815 United States;X-APPLE-RADIUS=500;X-TITLE=2005 Palo Verde Ave.:geo:-118.1083996,33.7924082
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200322T100000
+DTEND;TZID=America/Los_Angeles:20200322T103000
+DTSTAMP:20200320T091849
+CREATED:20191122T184943Z
+LAST-MODIFIED:20191126T004927Z
+UID:1329-1584871200-1584873000@demo.theeventscalendar.com
+SUMMARY:Weekly Beach Cleanup
+DESCRIPTION:The 30-minute beach cleanup on the weekly on Sundays\, 10 a.m. in Belmont Shore\, to help rid the beach of trash and debris. All ages welcome. Free trash bags\, gloves\, door prizes\, volunteer credit forms and refreshments. \n
+URL:https://demo.theeventscalendar.com/event/weekly-beach-cleanup/2020-03-22/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/beach-cleanup.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200323T120000
+DTEND;TZID=America/New_York:20200323T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004800Z
+UID:1049-1584964800-1584968400@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-23/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200325T120000
+DTEND;TZID=America/New_York:20200325T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004800Z
+UID:1050-1585137600-1585141200@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-25/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200327T120000
+DTEND;TZID=America/New_York:20200327T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004801Z
+UID:1051-1585310400-1585314000@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-27/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200328T070000
+DTEND;TZID=America/New_York:20200328T100000
+DTSTAMP:20200320T091849
+CREATED:20191121T054648Z
+LAST-MODIFIED:20191121T054648Z
+UID:857-1585378800-1585389600@demo.theeventscalendar.com
+SUMMARY:5K Fun Run
+DESCRIPTION:We’re hosting a 5K fun run to support local elementary schools. Register today and help us raise funds to help reduce class sizes and equip teachers with resources to help them teach students. \n
+URL:https://demo.theeventscalendar.com/event/5k-fun-run/2020-03-28/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/running.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20200329T100000
+DTEND;TZID=America/Los_Angeles:20200329T103000
+DTSTAMP:20200320T091849
+CREATED:20191122T184943Z
+LAST-MODIFIED:20191126T004927Z
+UID:1330-1585476000-1585477800@demo.theeventscalendar.com
+SUMMARY:Weekly Beach Cleanup
+DESCRIPTION:The 30-minute beach cleanup on the weekly on Sundays\, 10 a.m. in Belmont Shore\, to help rid the beach of trash and debris. All ages welcome. Free trash bags\, gloves\, door prizes\, volunteer credit forms and refreshments. \n
+URL:https://demo.theeventscalendar.com/event/weekly-beach-cleanup/2020-03-29/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Non-profit
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/beach-cleanup.png
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200330T120000
+DTEND;TZID=America/New_York:20200330T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004801Z
+UID:1052-1585569600-1585573200@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-03-30/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200331T180000
+DTEND;TZID=America/New_York:20200331T193000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004858Z
+UID:893-1585677600-1585683000@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-03-31/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200401T120000
+DTEND;TZID=America/New_York:20200401T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004801Z
+UID:1053-1585742400-1585746000@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-04-01/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200402T180000
+DTEND;TZID=America/New_York:20200402T193000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004859Z
+UID:894-1585850400-1585855800@demo.theeventscalendar.com
+SUMMARY:Healthy Cooking for Busy Schedules
+DESCRIPTION:Eating healthy is hard. We often want to eat well but have little time to prepare\, cook and eat healthy meals.\nBut healthy cooking doesn’t have to be time-consuming! Join us in this weekly course where we share tips for eating well and recipes that anyone can prepare in 30 minutes or less!\nCost is $5 per class to cover the cost of materials. \n
+URL:https://demo.theeventscalendar.com/event/healthy-cooking-for-busy-schedules-2/2020-04-02/
+CATEGORIES:Food
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/culinary-hero-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200403T120000
+DTEND;TZID=America/New_York:20200403T130000
+DTSTAMP:20200320T091849
+CREATED:20191121T054653Z
+LAST-MODIFIED:20191126T004801Z
+UID:1054-1585915200-1585918800@demo.theeventscalendar.com
+SUMMARY:Yoga at the Park
+DESCRIPTION:Join us Wednesday afternoons for yoga during your lunch break. Leave the building stress of work at the door and find the center of your breath as we practice vinyasa at a level for beginners and pros alike. \n
+URL:https://demo.theeventscalendar.com/event/yoga-at-the-park-3/2020-04-03/
+LOCATION:Belmont Shore\, 1 Grenada Ave.\, Long Beach\, CA\, 90803\, United States
+CATEGORIES:Fitness
+ATTACH;FMTTYPE=image/png:https://demo.theeventscalendar.com/wp-content/uploads/yoga.png
+ORGANIZER;CN="Lily%20Aldrin":MAILTO:lily@example.com
+GEO:33.7561755;-118.1387699
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Belmont Shore 1 Grenada Ave. Long Beach CA 90803 United States;X-APPLE-RADIUS=500;X-TITLE=1 Grenada Ave.:geo:-118.1387699,33.7561755
+END:VEVENT
+END:VCALENDAR
